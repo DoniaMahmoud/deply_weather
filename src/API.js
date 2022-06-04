@@ -1,7 +1,7 @@
 //Base URL
 const base_url = "https://api.worldweatheronline.com/premium/v1/weather.ashx?";
 const past_url =
-  " http://api.worldweatheronline.com/premium/v1/past-weather.ashx?";
+  " https://api.worldweatheronline.com/premium/v1/past-weather.ashx?";
 // Key things
 const key = "f2f0e80fb66f4de5bcb130901222705";
 const key_url = `key=${key}`;
